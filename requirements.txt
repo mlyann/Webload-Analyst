@@ -1,0 +1,5 @@
+matplotlib
+numpy
+pyfiglet
+requests
+tqdm

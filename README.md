@@ -106,5 +106,3 @@ This project is open-sourced under the MIT License. See the LICENSE file for mor
 
 ## Contact
 Minglai Yang
-
-Thank you James, Jawad and Susan for your valuable feedback and ideas for this project!

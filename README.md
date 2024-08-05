@@ -105,4 +105,4 @@ Feel free to fork this repository and submit pull requests with your improvement
 This project is open-sourced under the MIT License. See the LICENSE file for more information.
 
 ## Contact
-Minglai Yang
+[Minglai Yang](ymingl.com)

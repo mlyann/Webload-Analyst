@@ -1,5 +1,4 @@
-# Project Title
-Webpage Loading Time Tester
+# Webpage Loading Time Tester
 
 # Project Description: 
 This script measures and analyzes the loading times of a specific webpage at regular intervals for a given duration. It utilizes wget to fetch the page, records the loading times, and provides statistics and visualizations to evaluate performance.

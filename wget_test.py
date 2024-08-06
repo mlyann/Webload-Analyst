@@ -77,7 +77,7 @@ Notes:
 
 
 
-ascii_art = pyfiglet.figlet_format("CoreTechs")
+ascii_art = pyfiglet.figlet_format("MING")
 print(ascii_art)
 
 time.sleep(1)

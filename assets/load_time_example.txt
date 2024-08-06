@@ -1,0 +1,17 @@
+Meeting URL 	 https://blackstoneamoffice.com/editors/Reports/MeetingStatusReport.aspx?meetingid=2873 
+Duration (minutes) 	2.0
+Maximum acceptable response time (seconds) 	5
+Pause time if exceeds the time line (seconds) 	1
+Pause time if does not exceed the time line (seconds) 	1
+
+
+Data Records: 
+Timestamp 	Total Elapsing Time (seconds) 	Total Remaining Time (seconds) 	Loading Times (seconds) 	Pause Each Request (seconds) 	IS ACCEPTABLE? 	Total Counts of Exceeding Time Line
+2024-08-05 11:57:13 	0.00 	120.00 	 2.54 	 1 	 True	0 
+2024-08-05 11:57:17 	3.56 	116.44 	 2.56 	 1 	 True	0 
+2024-08-05 11:57:20 	7.14 	112.86 	 2.55 	 1 	 True	0 
+2024-08-05 11:57:24 	10.70 	109.30 	 2.55 	 1 	 True	0 
+2024-08-05 11:57:27 	14.27 	105.73 	 2.53 	 1 	 True	0 
+2024-08-05 11:57:31 	17.82 	102.18 	 2.51 	 1 	 True	0 
+2024-08-05 11:57:34 	21.34 	98.66 	 2.86 	 1 	 True	0 
+2024-08-05 11:57:38 	25.22 	94.78 	 2.50 	 1 	 True	0 

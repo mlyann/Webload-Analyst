@@ -3,7 +3,7 @@
 # Project Description: 
 This script measures and analyzes the loading times of a specific webpage at regular intervals for a given duration. It utilizes wget to fetch the page, records the loading times, and provides statistics and visualizations to evaluate performance.
 
-## Install `wget` using Homebrew
+### Install `wget` using Homebrew
 
 
 1. If you don't already have Homebrew installed, you can install it by running the following command in your terminal:
@@ -16,28 +16,25 @@ This script measures and analyzes the loading times of a specific webpage at reg
 brew install wget
 ```
 
-## Setting up the Environment
 
-To run this script, you might want to set up a virtual environment using Conda. Here's how you can do it:
+### Create a Virtual Environment
 
-### Install Anaconda or Miniconda
+1. Open your terminal or command prompt.
 
-If you haven't already installed Anaconda or Miniconda, download and install it from [Anaconda](https://www.anaconda.com/products/individual) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html).
+2. Navigate to your project directory where you want to set up the virtual environment.
 
-### Create a Conda Environment
-
-
-1. Install Anaconda or Miniconda if it is not already installed. You can find Anaconda on the Anaconda website and Miniconda on its documentation page.
-
-2. Open your terminal or command prompt.
-
-3. Create a new Conda environment using a more recent Python version by running the command:
+3. Create a new virtual environment using Python's built-in venv module:
 ```bash
-conda create --name webpage_tester python=3.11
+python -m venv webpage_tester
 ```
-4. Activate the new environment by running:
+4. Activate the virtual environment:
+* On Windows:
 ```bash
-conda activate webpage_tester
+webpage_tester\Scripts\activate
+```
+* On macOS and Linux:
+```bash
+source webpage_tester/bin/activate
 ```
 
 
